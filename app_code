@@ -29,7 +29,7 @@ FEATURE_LABELS = {
     "cad": "CAD",
     "lung": "COPD",
     "opsite": "Intubated in optimal site (i.e. ICU or OR)",
-    "timecat2": "Intubated for less than 7 days"
+    "timecat2": "Intubated for more than 7 days"
 }
 
 YES_NO_MAP = {
